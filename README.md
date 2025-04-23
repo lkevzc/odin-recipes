@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is to further improve my abilities and to prepare myself for future The Odin Project lessons.
